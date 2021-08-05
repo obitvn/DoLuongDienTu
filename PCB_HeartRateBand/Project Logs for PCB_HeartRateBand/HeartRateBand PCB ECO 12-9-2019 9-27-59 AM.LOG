@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=IO0 Pin=R16-1
+Removed Pin From Net: NetName=NetC12_1 Pin=R16-2
+Removed Pin From Net: NetName=NetC11_2 Pin=R17-1
+Removed Pin From Net: NetName=EN Pin=R17-2
+Removed Member From Class: ClassName=HeartRateBand Member=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Added Component: Designator=*TP1(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*TP2(TP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB1(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB2(SB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=*TP1-1
+Added Pin To Net: NetName=GND Pin=*TP2-1
+Added Pin To Net: NetName=NetC12_1 Pin=SB1-1
+Added Pin To Net: NetName=IO0 Pin=SB1-2
+Added Pin To Net: NetName=EN Pin=SB2-1
+Added Pin To Net: NetName=NetC11_2 Pin=SB2-2
+Added Member To Class: ClassName=HeartRateBand Member=Component *TP1 TP
+Added Member To Class: ClassName=HeartRateBand Member=Component *TP2 TP
+Added Member To Class: ClassName=HeartRateBand Member=Component SB1 SB
+Added Member To Class: ClassName=HeartRateBand Member=Component SB2 SB
+Added Room: Name=HeartRateBand

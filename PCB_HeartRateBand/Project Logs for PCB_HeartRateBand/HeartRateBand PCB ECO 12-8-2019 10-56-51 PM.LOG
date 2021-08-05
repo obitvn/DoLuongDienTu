@@ -1,0 +1,61 @@
+Added Component: Designator=HB1(HeartBand)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HB2(HeartBand)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HB3(HeartBand)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HB4(HeartBand)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=HB1-1
+Added Pin To Net: NetName=VBAT Pin=HB1-2
+Added Pin To Net: NetName=3V3 Pin=HB1-3
+Added Pin To Net: NetName=5V Pin=HB1-4
+Added Pin To Net: NetName=A Pin=HB1-5
+Added Pin To Net: NetName=B Pin=HB1-6
+Added Pin To Net: NetName=C Pin=HB1-7
+Added Pin To Net: NetName=D Pin=HB1-8
+Added Pin To Net: NetName=IO0 Pin=HB1-9
+Added Pin To Net: NetName=EN Pin=HB1-10
+Added Pin To Net: NetName=I2C_SDA Pin=HB1-11
+Added Pin To Net: NetName=I2C_SCL Pin=HB1-12
+Added Pin To Net: NetName=GND Pin=HB2-1
+Added Pin To Net: NetName=VBAT Pin=HB2-2
+Added Pin To Net: NetName=3V3 Pin=HB2-3
+Added Pin To Net: NetName=5V Pin=HB2-4
+Added Pin To Net: NetName=A Pin=HB2-5
+Added Pin To Net: NetName=B Pin=HB2-6
+Added Pin To Net: NetName=C Pin=HB2-7
+Added Pin To Net: NetName=D Pin=HB2-8
+Added Pin To Net: NetName=IO0 Pin=HB2-9
+Added Pin To Net: NetName=EN Pin=HB2-10
+Added Pin To Net: NetName=I2C_SDA Pin=HB2-11
+Added Pin To Net: NetName=I2C_SCL Pin=HB2-12
+Added Pin To Net: NetName=GND Pin=HB3-1
+Added Pin To Net: NetName=VBAT Pin=HB3-2
+Added Pin To Net: NetName=3V3 Pin=HB3-3
+Added Pin To Net: NetName=5V Pin=HB3-4
+Added Pin To Net: NetName=A Pin=HB3-5
+Added Pin To Net: NetName=B Pin=HB3-6
+Added Pin To Net: NetName=C Pin=HB3-7
+Added Pin To Net: NetName=D Pin=HB3-8
+Added Pin To Net: NetName=IO0 Pin=HB3-9
+Added Pin To Net: NetName=EN Pin=HB3-10
+Added Pin To Net: NetName=I2C_SDA Pin=HB3-11
+Added Pin To Net: NetName=I2C_SCL Pin=HB3-12
+Added Pin To Net: NetName=GND Pin=HB4-1
+Added Pin To Net: NetName=VBAT Pin=HB4-2
+Added Pin To Net: NetName=3V3 Pin=HB4-3
+Added Pin To Net: NetName=5V Pin=HB4-4
+Added Pin To Net: NetName=A Pin=HB4-5
+Added Pin To Net: NetName=B Pin=HB4-6
+Added Pin To Net: NetName=C Pin=HB4-7
+Added Pin To Net: NetName=D Pin=HB4-8
+Added Pin To Net: NetName=IO0 Pin=HB4-9
+Added Pin To Net: NetName=EN Pin=HB4-10
+Added Pin To Net: NetName=I2C_SDA Pin=HB4-11
+Added Pin To Net: NetName=I2C_SCL Pin=HB4-12
+Added Member To Class: ClassName=HeartRateBand Member=Component HB1 HeartBand
+Added Member To Class: ClassName=HeartRateBand Member=Component HB2 HeartBand
+Added Member To Class: ClassName=HeartRateBand Member=Component HB3 HeartBand
+Added Member To Class: ClassName=HeartRateBand Member=Component HB4 HeartBand
+Added Room: Name=HeartRateBand

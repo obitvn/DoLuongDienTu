@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=ESP_RX Pin=U5-2
+Removed Pin From Net: NetName=ESP_TX Pin=U5-3
+Removed Pin From Net: NetName=DTR Pin=U5-13
+Removed Pin From Net: NetName=RTS Pin=U5-14
+Removed Pin From Net: NetName=5V Pin=U5-16
+Removed Member From Class: ClassName=HeartRateBand Member=C19
+Removed Member From Class: ClassName=HeartRateBand Member=C21
+Removed Member From Class: ClassName=HeartRateBand Member=U5
+Removed Member From Class: ClassName=HeartRateBand Member=X2
+Change Component Designator: OldDesignator=C18 NewDesignator=C14
+Change Component Designator: OldDesignator=C19 NewDesignator=C15
+Change Component Designator: OldDesignator=C20 NewDesignator=C16
+Change Component Designator: OldDesignator=C21 NewDesignator=C17
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Added Component: Designator=B1(QFN50P500X500X80-29N-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CP2102N-A01-GQFN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cp2102n-a01-gqfn28/silicon-labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/2245279.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CP2102N-A01-GQFN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=3V3 Pin=B1-6
+Added Pin To Net: NetName=3V3 Pin=B1-7
+Added Pin To Net: NetName=5V Pin=B1-8
+Added Pin To Net: NetName=RTS Pin=B1-24
+Added Pin To Net: NetName=ESP_TX Pin=B1-25
+Added Pin To Net: NetName=ESP_RX Pin=B1-26
+Added Pin To Net: NetName=DTR Pin=B1-28
+Added Pin To Net: NetName=5V Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_4 Pin=USB1-3
+Added Net: Name=NetB1_4
+Added Pin To Net: NetName=NetB1_5 Pin=B1-5
+Added Pin To Net: NetName=NetB1_5 Pin=USB1-2
+Added Net: Name=NetB1_5
+Added Pin To Net: NetName=NetB1_9 Pin=B1-9
+Added Pin To Net: NetName=NetB1_9 Pin=R18-2
+Added Net: Name=NetB1_9
+Added Pin To Net: NetName=NetB1_11 Pin=B1-11
+Added Pin To Net: NetName=NetB1_11 Pin=R19-2
+Added Net: Name=NetB1_11
+Added Member To Class: ClassName=HeartRateBand Member=Component B1 CP2102N-A01-GQFN28
+Added Member To Class: ClassName=HeartRateBand Member=Component R19 4k7
+Added Member To Class: ClassName=HeartRateBand Member=Component R20 470R
+Added Room: Name=HeartRateBand

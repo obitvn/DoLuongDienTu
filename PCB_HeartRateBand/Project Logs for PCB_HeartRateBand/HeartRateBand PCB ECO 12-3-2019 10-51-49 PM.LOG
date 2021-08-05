@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Added Component: Designator=B1(QFN65P600X600X100-29N-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CP2102N-A01-GQFN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cp2102n-a01-gqfn28/silicon-labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/2245279.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CP2102N-A01-GQFN28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-3
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_5 Pin=B1-5
+Added Pin To Net: NetName=3V3 Pin=B1-6
+Added Pin To Net: NetName=3V3 Pin=B1-7
+Added Pin To Net: NetName=5V Pin=B1-8
+Added Pin To Net: NetName=NetB1_9 Pin=B1-9
+Added Pin To Net: NetName=NetB1_11 Pin=B1-11
+Added Pin To Net: NetName=RTS Pin=B1-24
+Added Pin To Net: NetName=ESP_TX Pin=B1-25
+Added Pin To Net: NetName=ESP_RX Pin=B1-26
+Added Pin To Net: NetName=DTR Pin=B1-28
+Added Member To Class: ClassName=HeartRateBand Member=Component B1 CP2102N-A01-GQFN28
+Added Member To Class: ClassName=HeartRateBand Member=Component C15 104
+Added Member To Class: ClassName=HeartRateBand Member=Component C17 JP6
+Added Member To Class: ClassName=HeartRateBand Member=Component R18 4k7
+Added Room: Name=HeartRateBand
